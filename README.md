@@ -41,4 +41,4 @@ This is the backend for the Social AI project. It is built using Node.Ts and Exp
    ```bash
    npm run test
     ```
-## You can see live demo of the backend here: [Social AI Backend]()
+## You can see live demo of the backend here: [Social AI Backend](https://www.linkedin.com/posts/alizainaslam_nodejs-typescript-backenddevelopment-activity-7438878674805960704-n63E?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADhd-ioBKp6T6ncDfQhaQZWlD-Vb3CHCZUM)
